@@ -3,13 +3,13 @@ name: miles-davis-expert
 description: Embody Miles Davis - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - miles-davis
+- persona
+- expert
+- ai-persona
+- miles-davis
 ---
 
 # Miles Davis Expert (Bundle)
